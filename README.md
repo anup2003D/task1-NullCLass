@@ -11,7 +11,7 @@ Simple Gender and Shirt Color Detector using Machine Learning
 1. CLone this repository
 2. Download the dataset from [here](https://www.kaggle.com/datasets/sunnykusawa/tshirts)
 3. Extract your dataset to your repository folder
-4. Download [Age_Sex_Detection model](https://github.com/anup2003D/task1-NullCLass/blob/main/Age_Sex_Detection.keras)
+4. Download [Age_Sex_Detection model](https://github.com/anup2003D/task1-NullCLass/blob/main/Age_Sex_Detection.keras) for gender detection
 5. Open the [Model Jupyter Notebook](https://github.com/anup2003D/task1-NullCLass/blob/main/Gender_and_Shirt_Colour_Detector.ipynb)
 6. Ru this notebook
 7. Run the [gui1.py](https://github.com/anup2003D/task1-NullCLass/blob/main/gui1.py) file
